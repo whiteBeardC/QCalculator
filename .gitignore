@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Git files
+*.gitattributes
+
+# Folder
+bin
+src/.vs
